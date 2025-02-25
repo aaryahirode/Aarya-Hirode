@@ -1,4 +1,3 @@
-![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Aarya Hirode</h1>
 <h3 align="center">Passionate Web Developer | Building Solutions with Code 🚀</h3>
 
